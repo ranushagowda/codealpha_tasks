@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "what is the capital of india?",
+      "answer": "Delhi"
+    },
+    {
+      "question": "what is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am fine..what about you"
+    },
+    {
+      "question": "whats up?",
+      "answer": "Nothing much,What about you.."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!! How can i help you?"
+    },
+    {
+      "question": "fine",
+      "answer": "How can I help you?"
+    },
+    {
+      "question": "thank you",
+      "answer": "Your always welcome."
+    },
+    {
+      "question": "bye",
+      "answer": "Bye. Meet you next time!"
+    },
+    {
+      "question": "good morning",
+      "answer": "Pleasant Morning:)"
+    },
+    {
+      "question": "which is our national animal",
+      "answer": "tiger"
+    },
+    {
+      "question": "how's your day going on",
+      "answer": "Thanks for asking ! It's going really great "
+    },
+    {
+      "question": "could you tell me some places for vacation",
+      "answer": "ya sure, You can have a visit for madkeri, munnar,mysore,bangalore fort,chikkmangalore,ooty and many more"
+    },
+    {
+      "question": "ok",
+      "answer": "ok"
+    }
+  ]
+}
